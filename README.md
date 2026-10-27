@@ -58,16 +58,45 @@ Meu primeiro projeto em Java, desenvolvido para praticar lógica de programaçã
 
 **Tecnologias:** Java.
 
-### ✅ Gerenciador de Tarefas
 
-Projeto desenvolvido para praticar lógica de programação, organização de código e manipulação de tarefas em Java.
+### 🚲 [Sistema de Locação de Mobilidade Urbana](https://github.com/Cauasaturnino/Mobilidade_Urbana_Java)
 
-**Funcionalidades trabalhadas:**
-- Adicionar tarefas.
-- Listar tarefas.
-- Consultar e atualizar o status das tarefas.
-- Remover tarefas.
-- Explorar a criação de uma interface gráfica com Java Swing.
+Projeto acadêmico desenvolvido em **Java** como atividade prática de Programação Orientada a Objetos (POO), com o objetivo de simular o funcionamento de um sistema de mobilidade urbana compartilhada.
+
+A aplicação permite gerenciar usuários, estações e veículos, simulando o processo de aluguel e devolução de bicicletas e patinetes elétricos. O projeto foi desenvolvido para colocar em prática conceitos fundamentais da programação orientada a objetos, organização de classes e regras de negócio.
+
+**⚙️ Funcionalidades**
+
+- 👤 Cadastro de usuários.
+- 🚉 Cadastro e gerenciamento de estações.
+- 🚲 Cadastro de bicicletas e patinetes elétricos.
+- 🔑 Locação de veículos disponíveis na estação correspondente.
+- ↩️ Devolução de veículos em qualquer estação cadastrada.
+- 💰 Cálculo automático da tarifa com base no tempo de utilização e no tipo de veículo.
+- 🔋 Recarga de bateria dos patinetes elétricos.
+- 🛡️ Validação das regras de locação, impedindo aluguéis de veículos indisponíveis ou de usuários com uma locação ativa.
+
+**🧠 Conceitos aplicados**
+
+- **Encapsulamento:** proteção dos atributos e acesso controlado por métodos.
+- **Herança:** reutilização de características comuns por meio de uma classe base `Veiculo`.
+- **Polimorfismo:** implementação do cálculo de tarifas conforme o tipo de veículo.
+- **Classe abstrata:** estruturação dos comportamentos comuns aos veículos.
+- **Interfaces:** utilização de `Recarregavel` para representar o comportamento de recarga dos patinetes.
+- **Organização do código:** separação entre modelos e serviços para facilitar a manutenção e a compreensão do sistema.
+
+**🛠️ Tecnologias utilizadas**
+
+- Java
+- Programação Orientada a Objetos (POO)
+- Git e GitHub
+
+**🎯 Objetivo do projeto**
+
+Consolidar meus conhecimentos em Java, desenvolver meu raciocínio lógico e compreender como os pilares da POO podem ser utilizados na construção de uma aplicação com regras de negócio e diferentes entidades que interagem entre si.
+
+🔗 **[Acessar o repositório e conferir o código-fonte](https://github.com/Cauasaturnino/Mobilidade_Urbana_Java)**
+
 
 **Tecnologia principal:** Java.
 
