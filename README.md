@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=539BF5&center=true&vCenter=true&width=600&lines=Estudando+Java+e+orienta%C3%A7%C3%A3o+a+objetos;Aprendendo+SQL+e+banco+de+dados;Construindo+Projetos+e+evoluindo+na+programa%C3%A7%C3%A3o" alt="Apresentação animada" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=539BF5&center=true&vCenter=true&width=600&lines=Estudando+Java+e+orienta%C3%A7%C3%A3o+a+objetos;Aprendendo+Java+SQL+e+banco+de+dados;" alt="Apresentação animada" />
 </p>
 
 ---
