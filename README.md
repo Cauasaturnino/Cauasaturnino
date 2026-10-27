@@ -15,7 +15,7 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**.
 
-☕ Estudando Java, lógica de programação e Programação Orientada a Objetos (POO).
+☕ Estudando Java, Lógica de programação e Programação Orientada a Objetos (POO).
 
 🗄️ Aprendendo SQL e conceitos de banco de dados.
 
