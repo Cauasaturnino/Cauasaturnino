@@ -124,18 +124,6 @@ Projeto de extensão da Unifametro desenvolvido para a **Ótica Cardy** e aprese
 
 ---
 
-## 📊 GitHub em números
-
-<div align="center">
-
-![Repositórios](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FCauasaturnino&query=%24.public_repos&label=Reposit%C3%B3rios&style=flat-square&logo=github&logoColor=white&color=1F6FEB)
-![Seguidores](https://img.shields.io/github/followers/Cauasaturnino?style=flat-square&label=Seguidores&logo=github&color=1F6FEB)
-
-<br/>
-
-![Sequência de contribuições](https://streak-stats.demolab.com?user=Cauasaturnino&theme=tokyonight&hide_border=true&locale=pt_BR)
-
-</div>
 
 ---
 
